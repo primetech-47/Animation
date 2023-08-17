@@ -135,11 +135,7 @@ a{
      
          
     }
-        .main{
-        padding: 0;
-       height:70vh;
         
-        }
 }
 @media screen and (max-width:470px) {
     .main{
@@ -776,6 +772,7 @@ a{
     justify-content: center;
     gap:2rem;
     border: 1px solid red;
+    margin-left:1rem;
 }
 .share a{
    text-decoration: none;
