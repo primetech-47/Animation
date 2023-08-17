@@ -578,7 +578,10 @@ a{
     color: black;
    
 
-}    
+}   
+.shared-mod{
+    margin:.5rem 0;
+}
     /* header */
 .header{
     position: relative;
