@@ -139,7 +139,9 @@ a{
 @media screen and (max-width:470px) {
     .main{
         padding: 0;
-       height:100vh;
+       height:78vh;
+        padding-top:2rem;
+
       
     }
     .container{
