@@ -135,6 +135,11 @@ a{
      
          
     }
+        .main{
+        padding: 0;
+       height:70vh;
+        
+        }
 }
 @media screen and (max-width:470px) {
     .main{
@@ -775,6 +780,7 @@ a{
 .share a{
    text-decoration: none;
    color: gray;
+    margin-left:.5rem
 }
 .share-mod{
     padding:0;
