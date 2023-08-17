@@ -773,7 +773,7 @@ a{
     gap:2rem;
     border: 1px solid red;
     margin-left:1rem;
-    padding-left:1rem;
+    padding-left:1.4rem;
 }
 .share a{
    text-decoration: none;
@@ -782,5 +782,5 @@ a{
 }
 .share-mod{
     padding:0;
-    padding-left:1rem;
+    padding-left:1.4rem;
 }
