@@ -140,7 +140,7 @@ a{
     .main{
         padding: 0;
        height:90vh;
-        padding-top:4rem;
+        padding-top:4.5rem;
 
       
     }
@@ -762,13 +762,14 @@ a{
 .shared{
     position: absolute;
      bottom: 10%;
-    left: 30%;
+    left: 50%;
+    transform: translateX(-50%)
     width: 300px;
     height: 50px;
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 1.5rem;
+    gap:2rem;
     border: 1px solid red;
 }
 .share a{
